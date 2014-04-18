@@ -1,0 +1,118 @@
+/* lte IE 9 style*/
+.lista {
+	-pie-background: rgba(248, 248, 248, .9);
+	position: relative;
+}
+
+.sky-form header {
+	-pie-background: rgba(42, 58, 77, 0.9);
+	border-radius: 7px 7px 0px 0px;
+	position: relative;
+}
+
+.sky-form fieldset {
+	-pie-background: rgba(51, 71, 95, 0.9);
+	position: relative;
+}
+
+.sky-form .fundo_darker {
+	-pie-background: rgba(29, 42, 56, 0.67);
+	position: relative;
+}
+
+.sky-form fieldset + fieldset {
+	-pie-background: rgba(42, 58, 77, 0.9);
+	border-radius: 0px 0px 7px 7px;
+	position: relative;
+}
+
+.sky-form .input input, .sky-form .select select, .sky-form .textarea textarea {
+	border-radius: 0;
+	position: relative;
+}
+
+.sky-form .select i {
+	position: relative;
+}
+
+.sky-form .radio i {
+	border-radius: 50%;
+	position: relative;
+}
+
+.sky-form .toggle i {
+	border-radius: 12px;
+	position: relative;
+}
+
+.sky-form .toggle i:before {
+	border-radius: 50%;
+	position: relative;
+}
+
+@media screen and (max-width: 600px)  { }.sky-form .tooltip {
+	-pie-background: rgba(0, 0, 0, 0.9);
+	position: relative;
+}
+
+.sky-form .state-error select + i {
+	position: relative;
+}
+
+.sky-form .state-success select + i {
+	position: relative;
+}
+
+.sky-form .message i {
+	border-radius: 50%;
+	position: relative;
+}
+
+.sky-form.submited .message {
+	-pie-background: rgba(255, 255, 255, .9);
+	position: relative;
+}
+
+.ui-datepicker {
+	-pie-background: rgba(255, 255, 255, 0.9);
+	position: relative;
+}
+
+.ui-datepicker-calendar a:hover {
+	-pie-background: rgba(0, 0, 0, .05);
+	position: relative;
+}
+
+.ui-datepicker-calendar a {
+	position: relative;
+}
+
+.ui-datepicker-calendar .ui-state-active {
+	-pie-background: rgba(0, 0, 0, .05);
+	position: relative;
+}
+
+.ui-datepicker-inline {
+	position: relative;
+}
+
+.sky-form-modal-overlay {
+	-pie-background: rgba(0, 0, 0, 0.7);
+	position: relative;
+}
+
+.sky-form .label {
+	border-radius: 0;
+	position: relative;
+}
+
+a.button {
+	border-radius: 5px;
+	position: relative;
+}
+
+a.btn_yelow {
+	border-radius: 5px 5px;
+	position: relative;
+}
+

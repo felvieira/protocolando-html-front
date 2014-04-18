@@ -1,0 +1,12 @@
+/* lte IE 9 style*/
+.modal {
+	-pie-background: rgba(255, 255, 255, 0.9);
+	position: relative;
+}
+
+.listagem {
+	border-radius: 10px;
+	position: relative;
+}
+
+@media screen and (max-width: 600px)  { }@media only screen and (min-width : 641px) { }@media only screen and (min-width : 1024px) { }
